@@ -1,0 +1,353 @@
+<?hda version="11.1.1.8.0-2013-07-11 17:07:21Z-r106802" jcharset="UTF8" encoding="utf-8"?>
+@Properties LocalData
+ContentFileNumber=1
+IsLastFile=1
+NumRows=5
+blDateFormat='{ts' ''yyyy-MM-dd HH:mm:ss{.SSS}[Z]'''}'!tEurope/London
+blFieldTypes=dCreateDate date,dDocCreatedDate date,dReleaseDate date,dInDate date,dDocLastModifiedDate date,dOutDate date
+@end
+@ResultSet ExportResults
+57
+dID 3 38
+dDocName 6 30
+dDocType 6 30
+dDocTitle 6 255
+dDocAuthor 6 200
+dRevClassID 3 38
+dRevisionID 3 38
+dRevLabel 6 10
+dIsCheckedOut 3 1
+dCheckoutUser 6 200
+dSecurityGroup 6 30
+dCreateDate 5 20
+dInDate 5 20
+dOutDate 5 20
+dStatus 6 20
+dReleaseState 6 1
+dFlag1 6 1
+dWebExtension 6 255
+dProcessingState 6 1
+dMessage 6 255
+dDocAccount 6 80
+dReleaseDate 5 20
+dRendition1 6 1
+dRendition2 6 1
+dIndexerState 6 1
+dPublishType 6 1
+dPublishState 6 1
+dWorkflowState 6 1
+dRevRank 3 38
+dID 3 38
+xComments 6 2000
+xExternalDataSet 6 200
+xIdcProfile 6 30
+xPartitionId 6 30
+xWebFlag 6 30
+xStorageRule 6 30
+dRevClassID 3 38
+dDocName 6 30
+dIndexedID 3 38
+dDocCreatedDate 5 20
+dDocCreator 6 200
+dDocLastModifiedDate 5 20
+dDocLastModifier 6 200
+dDocOwner 6 200
+dDocFunction 6 50
+dDocClass 6 80
+primaryFile
+alternateFile
+dOriginalName
+webViewableFile
+primaryFile:format
+alternateFile:format
+webViewableFile:format
+alternateFile:name
+webViewableFile:name
+dRendition1:path
+dRendition2:path
+1
+LOCALHOSTLOCAL000001
+Document
+test
+weblogic
+1
+1
+1
+0
+
+Public
+{ts '2015-06-25 17:42:22.116'}
+{ts '2015-06-25 17:42:00.000'}
+
+RELEASED
+O
+
+desktop
+Y
+
+
+{ts '2015-06-25 17:42:25.333'}
+
+
+
+
+
+
+2
+1
+
+
+
+
+
+DispByContentId
+1
+LOCALHOSTLOCAL000001
+3
+{ts '2015-06-25 17:42:22.116'}
+weblogic
+{ts '2015-06-25 19:37:43.358'}
+weblogic
+weblogic
+
+
+15-jun-25_19.40.02_259_01/1/vault/document/1.desktop
+
+oraclexe-gettingstarted.desktop
+15-jun-25_19.40.02_259_01/1/weblayout/groups/public/documents/document/localhostlocal000001~1.desktop
+Application/desktop
+
+Application/desktop
+
+LOCALHOSTLOCAL000001~1.desktop
+
+
+2
+LOCALHOSTLOCAL000001
+Document
+test
+weblogic
+1
+2
+2
+0
+
+Public
+{ts '2015-06-25 19:37:25.713'}
+{ts '2015-06-25 19:36:00.000'}
+
+RELEASED
+O
+
+txt
+Y
+
+
+{ts '2015-06-25 19:37:27.832'}
+
+
+
+
+
+
+1
+2
+
+
+
+
+
+DispByContentId
+1
+LOCALHOSTLOCAL000001
+3
+{ts '2015-06-25 17:42:22.116'}
+weblogic
+{ts '2015-06-25 19:37:43.358'}
+weblogic
+weblogic
+
+
+15-jun-25_19.40.02_259_01/1/vault/document/2.txt
+
+test1.txt
+15-jun-25_19.40.02_259_01/1/weblayout/groups/public/documents/document/localhostlocal000001~2.txt
+text/plain
+
+text/plain
+
+LOCALHOSTLOCAL000001~2.txt
+
+
+3
+LOCALHOSTLOCAL000001
+Document
+test
+weblogic
+1
+3
+3
+0
+
+Public
+{ts '2015-06-25 19:37:43.358'}
+{ts '2015-06-25 19:37:00.000'}
+
+RELEASED
+Y
+
+txt
+Y
+
+
+{ts '2015-06-25 19:37:45.768'}
+
+
+
+
+
+
+0
+3
+
+
+
+
+
+DispByContentId
+1
+LOCALHOSTLOCAL000001
+3
+{ts '2015-06-25 17:42:22.116'}
+weblogic
+{ts '2015-06-25 19:37:43.358'}
+weblogic
+weblogic
+
+
+15-jun-25_19.40.02_259_01/1/vault/document/3.txt
+
+test2.txt
+15-jun-25_19.40.02_259_01/1/weblayout/groups/public/documents/document/localhostlocal000001~3.txt
+text/plain
+
+text/plain
+
+LOCALHOSTLOCAL000001~3.txt
+
+
+4
+LOCALHOSTLOCAL000002
+Document
+test-002
+weblogic
+2
+1
+1
+0
+
+Public
+{ts '2015-06-25 19:37:57.277'}
+{ts '2015-06-25 19:37:00.000'}
+
+RELEASED
+O
+
+txt
+Y
+
+
+{ts '2015-06-25 19:37:57.730'}
+
+
+
+
+
+
+1
+4
+
+
+
+
+
+DispByContentId
+2
+LOCALHOSTLOCAL000002
+5
+{ts '2015-06-25 19:37:57.277'}
+weblogic
+{ts '2015-06-25 19:38:10.581'}
+weblogic
+weblogic
+
+
+15-jun-25_19.40.02_259_01/1/vault/document/4.txt
+
+test3.txt
+15-jun-25_19.40.02_259_01/1/weblayout/groups/public/documents/document/localhostlocal000002~1.txt
+text/plain
+
+text/plain
+
+LOCALHOSTLOCAL000002~1.txt
+
+
+5
+LOCALHOSTLOCAL000002
+Document
+test-002
+weblogic
+2
+2
+2
+0
+
+Public
+{ts '2015-06-25 19:38:10.581'}
+{ts '2015-06-25 19:38:00.000'}
+
+RELEASED
+Y
+
+txt
+Y
+
+
+{ts '2015-06-25 19:38:12.753'}
+
+
+
+
+
+
+0
+5
+
+
+
+
+
+DispByContentId
+2
+LOCALHOSTLOCAL000002
+5
+{ts '2015-06-25 19:37:57.277'}
+weblogic
+{ts '2015-06-25 19:38:10.581'}
+weblogic
+weblogic
+
+
+15-jun-25_19.40.02_259_01/1/vault/document/5.txt
+
+test4.txt
+15-jun-25_19.40.02_259_01/1/weblayout/groups/public/documents/document/localhostlocal000002~2.txt
+text/plain
+
+text/plain
+
+LOCALHOSTLOCAL000002~2.txt
+
+
+@end
